@@ -18,9 +18,9 @@ body{
 
  header{
     background:oklch(45% 0.085 224.283) ;
-    position: fixed;/* bom para o trabalho*/
+   /* position: fixed;/* bom para o trabalho*/
     width: 100%; /* bom para o trabalho*/
-    z-index: 10;
+    /*z-index: 10;*/
  }
 
  .header-container{
